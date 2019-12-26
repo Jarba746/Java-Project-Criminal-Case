@@ -1,0 +1,5 @@
+1001<>Joe Ridin<>12/12/2019<>1<>2<>Male<>Criminal
+1002<>Curly Groove<>12/12/2019<>0<>6<>Male<>Innocent
+1003<>Timi Chaile<>12/12/2019<>3<>3<>Male<>Criminal
+1004<>Goofy Harley<>12/12/2019<>4<>4<>Male<>Criminal
+1005<>James Gorge<>12/12/2019<>5<>4<>Male<>Innocent
